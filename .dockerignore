@@ -1,0 +1,31 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Git
+.git/
+.gitignore
+
+# Development dependencies
+requirements-dev.txt
+
+# Raw and processed datasets
+data/
+
+# Notebooks
+notebooks/
+
+# Tests
+tests/
+
+# Documentation
+*.ipynb

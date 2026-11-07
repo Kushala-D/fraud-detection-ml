@@ -1,0 +1,12 @@
+# API
+fastapi==0.162.0
+uvicorn==0.54.0
+pydantic==2.14.3
+
+# Data processing
+numpy==2.4.6
+pandas==3.1.0
+
+# Model inference
+scikit-learn==1.9.1
+xgboost==3.2.0
